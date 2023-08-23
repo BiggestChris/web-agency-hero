@@ -1,0 +1,43 @@
+/* font-family: 'Open Sans', sans-serif; */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #020202;
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+#main-part {
+    margin-left: 40px;
+    margin-top: 40px;
+    max-width: 250px;
+    
+}
+
+#title {
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+#main-text {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#chat-button {
+    margin-top: 10px;
+    background-color: #0ea5e9;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    width: 120px;
+    height: 45px;
+    border: 0px;
+    font-weight: 700;
+}
+
+#underline {
+    border-bottom: solid 4px #0ea5e9;
+}
